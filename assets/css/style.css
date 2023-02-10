@@ -7,6 +7,7 @@
 /* font-family: 'Open Sans', sans-serif; */
 
 .section-title {
+  font-family: "Roboto", sans-serif;
   background-image: url("../resource/images/titel-bild.jpg");
   height: 100vh;
   background-position: center;
@@ -29,6 +30,7 @@
 }
 
 .main-section main {
+  font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -36,10 +38,10 @@
   background-color: #f7f7f7;
 }
 .main-section__great-ideas {
-  max-width: 570px;
+  max-width: 610px;
 }
 .main-section__great-ideas h3 {
-  font-size: 30px;
+  font-size: 28px;
   margin-top: 300px;
   margin-bottom: 20px;
 }
@@ -62,11 +64,12 @@
 }
 
 .main-section__meet-artists {
+  font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  max-width: 530px;
+  max-width: 550px;
 }
 .main-section__meet-artists h3 {
   font-size: 30px;
@@ -88,6 +91,7 @@
 }
 
 footer {
+  font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -102,7 +106,7 @@ footer {
 footer h2 {
   margin-top: 190px;
   padding-bottom: 100px;
-  width: 500px;
+  width: 550px;
   color: #4a4a4a;
   text-align: center;
   font-weight: 100;
@@ -121,7 +125,7 @@ footer h2 {
   text-align: center;
 }
 .footer__center-container {
-  width: 480px;
+  width: 530px;
   text-align: center;
   margin-left: -110px;
 }
